@@ -33,7 +33,3 @@ javascript:(function()%7B(()%3D%3E%7Bvar%20__webpack_modules__%3D%7B7207%3A(n%2C
 ```
 
 With credit sure.
-
-## Support
-
-For support contact me. The fastest way to reach me is on discord @penguinify. You can also use my email, penguinifyminecraft@gmail.com
