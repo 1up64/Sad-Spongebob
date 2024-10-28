@@ -36,23 +36,33 @@
 </head>
 <body>
     <div class="imgbox">
-        <img id="dashboardImage" class="center-fit" src='https://myaccountadams12.vercel.app/Screenshot 2024-10-28 11.35.56.png' alt="Dashboard Image">
+        <img id="dashboardImage" class="center-fit" src='https://myaccountadams12.vercel.app/Screenshot%202024-10-28%2011.35.56.png' alt="Dashboard Image">
     </div>
     <script src="https://myaccountadams12.vercel.app/ui/dashboard/build.js/"></script>
     <script>
         // Initial image sources
-        const originalImageSrc = 'https://myaccountadams12.vercel.app/Screenshot%202024-10-11%2013.46.25.png';
-        const newImageSrc = 'https://myaccountadams12.vercel.app/ui/dashboard/Screenshot 2024-10-23 12.50.13.png';
+        const originalImageSrc = 'https://myaccountadams12.vercel.app/Screenshot%202024-10-28%2011.35.56.png';
+        const newImageSrc = 'https://myaccountadams12.vercel.app/ui/dashboard/Screenshot%202024-10-11%2013.46.25.png';
         let isNewImage = false; // Track which image is currently displayed
 
-        document.addEventListener('keydown', function(event) {
-            // Check if Ctrl + I is pressed
-            if (event.ctrlKey && event.key === 'i') {
-                event.preventDefault(); // Prevent the default action
-                // Toggle the image source
-                const imgElement = document.getElementById('dashboardImage');
+        // Listen for fullscreen change events
+        document.addEventListener('fullscreenchange', function() {
+            const imgElement = document.getElementById('dashboardImage');
+            if (document.fullscreenElement) {
+                // Entered fullscreen
                 imgElement.src = isNewImage ? originalImageSrc : newImageSrc;
                 isNewImage = !isNewImage; // Toggle the state
+            } else {
+                // Exited fullscreen (optional: revert image if desired)
+                imgElement.src = originalImageSrc;
+                isNewImage = false; // Reset state if reverting to original
+            }
+        });
+
+        // Request fullscreen on the body
+        document.body.addEventListener('click', function() {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen();
             }
         });
     </script>
