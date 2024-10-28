@@ -1,14 +1,12 @@
 <div align="center">
 
-### The **MOST POPULAR** bookmarklet menu. Proxies, games, and exploits in a clean ui. (by @penguinify)
+### The **MOST UNPOPULAR** bookmarklet menu. Proxies, games, and exploits in a clean ui. (by sad songebob)
 
 #### give a star, this project took a while <3 ⭐️✨
 
 <img src="https://raw.githubusercontent.com/1up64/myaccount.adams12/refs/heads/main/angai313-spongebob-sad.gif" alt="drawing" width="300"/><br>
 <hr>
 <p align="center">
-  -
-  -
 </p>
 <hr>
 
@@ -17,7 +15,7 @@
 </div>
 
 > [!NOTE]
-> I have scaled back development of car axle client. Don't expect updates.
+> I have scaled not back development of this mod. expect updates.
 
 -   Exploits and history flooder
 -   Small, fun things bookmarklets
