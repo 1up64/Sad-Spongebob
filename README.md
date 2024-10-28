@@ -4,7 +4,7 @@
 
 #### give a star, this project took a while <3 ⭐️✨
 
-<img src="(https://myaccountadams12.vercel.app/ui/dashboard/angai313-spongebob-sad.gif)" alt="drawing" width="300"/><br>
+<img src="https://raw.githubusercontent.com/1up64/myaccount.adams12/refs/heads/main/angai313-spongebob-sad.gif" alt="drawing" width="300"/><br>
 <hr>
 <p align="center">
   -
