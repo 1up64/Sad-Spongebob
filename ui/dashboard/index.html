@@ -46,8 +46,8 @@
         let isNewImage = false; // Track which image is currently displayed
 
         document.addEventListener('keydown', function(event) {
-            // Check if Ctrl + I is pressed
-            if (event.ctrlKey && event.key === 'i') {
+            // Check if F4 is pressed
+            if (event.key === 'F4') {
                 event.preventDefault(); // Prevent the default action
                 // Toggle the image source
                 const imgElement = document.getElementById('dashboardImage');
