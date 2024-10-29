@@ -8,7 +8,7 @@
 <hr>
 <p align="center">
 -
-thank you for stopping by
+<a href="https://patrickstargothisheadexploded.com/">thank you for stopping by</a>
 -
 </p>
 <hr>
