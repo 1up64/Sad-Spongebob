@@ -15,7 +15,7 @@
 </div>
 
 > [!NOTE]
-> I have scaled not back development of this mod. expect updates.
+> I have scaled back development of this mod. sometimes expect updates.
 
 -   Exploits and history flooder
 -   Small, fun things bookmarklets
