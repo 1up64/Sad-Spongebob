@@ -7,6 +7,9 @@
 <img src="https://raw.githubusercontent.com/1up64/myaccount.adams12/refs/heads/main/angai313-spongebob-sad.gif" alt="drawing" width="300"/><br>
 <hr>
 <p align="center">
+-
+thank you for stopping by - cy
+-
 </p>
 <hr>
 
