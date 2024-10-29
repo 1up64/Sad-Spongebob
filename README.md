@@ -8,7 +8,7 @@
 <hr>
 <p align="center">
 -
-thank you for stopping by - cy
+thank you for stopping by
 -
 </p>
 <hr>
