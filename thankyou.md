@@ -1,1 +1,46 @@
-#thank you for supporting this project
+# thank you for supporting this project
+<br><!DOCTYPE html>
+<html lang="en">
+  <head>
+ <link rel="shortcut icon" type="image/jpeg" href="293.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sad Spongebob</title>
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="container">
+        <div class="image-cube">
+          <div class="front">
+            <img src="293.jpg" />
+          </div>
+          <div class="right">
+            <img src="293.jpg" />
+          </div>
+          <div class="back">
+            <img src="293.jpg" />
+          </div>
+          <div class="left">
+            <img src="293.jpg" />
+          </div>
+        </div>
+      </div>
+      <div class="btns">
+        <button id="prev">
+          <i class="fas fa-arrow-left"></i>
+        </button>
+        <button id="next">
+          <i class="fas fa-arrow-right"></i>
+        </button>
+      </div>
+    </div>
+    <!-- Script -->
+    <script src="script.js"></script>
+  </body>
+</br>
