@@ -4,7 +4,7 @@
 
 #### give a star, this project took a while <3 ⭐️✨
 
-<img src="./client/images/angai313-spongebob-sad.gif/" alt="drawing" width="300"/><br>
+<img src="https://raw.githubusercontent.com/1up64/Sad-Spongebob/refs/heads/main/client/images/angai313-spongebob-sad.gif" alt="drawing" width="300"/><br>
 <hr>
 <p align="center">
 -
