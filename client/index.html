@@ -39,22 +39,5 @@
         <img id="dashboardImage" class="center-fit" src='https://sad-spongebob-ya.vercel.app/client/images/Dashboard%20%7C%20RapidIdentity.png' alt="Dashboard Image">
     </div>
     <script src="./build.js/"></script>
-    <script>
-        // Initial image sources
-        const originalImageSrc = 'https://sad-spongebob-ya.vercel.app/client/images/Dashboard%20%7C%20RapidIdentity.png';
-        const newImageSrc = 'https://sad-spongebob-ya.vercel.app/client/images/Dashboard%20%7C%20RapidIdentity.png';
-        let isNewImage = false; // Track which image is currently displayed
-
-        document.addEventListener('keydown', function(event) {
-            // Check if F11 is pressed
-            if (event.key === ';') {
-                event.preventDefault(); // Prevent the default action
-                // Toggle the image source
-                const imgElement = document.getElementById('dashboardImage');
-                imgElement.src = isNewImage ? originalImageSrc : newImageSrc;
-                isNewImage = !isNewImage; // Toggle the state
-            }
-        });
-    </script>
 </body>
 </html>
