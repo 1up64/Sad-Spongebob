@@ -8,7 +8,7 @@
 <hr>
 <p align="center">
 -
-<a href="https://github.com/1up64/Sad-Spongebob/blob/main/thankyou.md">thank you for stopping by</a>
+<a href="./thankyou.md">thank you for stopping by</a>
 -
 </p>
 <hr>
