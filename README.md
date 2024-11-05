@@ -13,7 +13,7 @@
 </p>
 <hr>
 
-![Dynamic Badge](https://img.shields.io/github/certified-trash/1up64/Sad-Spongebob/main?style=plastic) ![Dynamic Badge](https://tokei.rs/b1/github/1up64/Sad-Spongebob) ![Static Badge](https://img.shields.io/badge/certified-trash-734422?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/1up64/Sad-Spongebob/main?style=plastic)
+![Dynamic Badge](https://img.shields.io/badge/certified-trash-734422?style=plastic) ![Dynamic Badge](https://tokei.rs/b1/github/1up64/Sad-Spongebob) ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/1up64/sad-spongebob/webpack.yml?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/1up64/Sad-Spongebob/main?style=plastic)
 
 </div>
 
