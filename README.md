@@ -1,6 +1,6 @@
 <div align="center">
 
-### The **MOST UNPOPULAR** bookmarklet menu. Proxies, games, and exploits in a clean ui. (by sad songebob (mod of penguinify's car axle))
+### The **MOST UNPOPULAR** bookmarklet menu. Proxies, games, and exploits in a dirty ui. (by sad songebob (mod of penguinify's car axle))
 
 #### give a star, this project took a while <3 ⭐️✨
 
