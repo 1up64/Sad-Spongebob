@@ -63,4 +63,4 @@ With credit sure.
 
 ## Support
 
-For support contact me. The fastest way to reach me is on discord @penguinify. You can also use my email, penguinifyminecraft@gmail.com
+For support contact me. The fastest way to reach me is on discord @1upfunniguy. You can also use my email, sad.spongebob.dev@gmail.com
