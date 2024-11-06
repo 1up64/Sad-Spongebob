@@ -1,0 +1,28 @@
+<body style="margin: 0">
+<img src="https://source.unsplash.com/random/1920x1200" alt="">
+</body>
+
+<title>car axle client development server</title>
+
+<script src="index.js"></script>
+
+<script>
+    // get url params
+    const urlParams = new URLSearchParams(window.location.search);
+    const showcase = urlParams.get('showcase');
+    const text = urlParams.get('text');
+    if (showcase) {
+        let images = document.querySelector('img')
+        // remove all images
+        images.remove()
+    }
+    if (text) {
+        let text = document.createElement('h1')
+        text.innerHTML = "Hello World"
+        text.style.color = "black"
+        text.style.userSelect = "none"
+
+        document.body.appendChild(text)
+
+    }
+</script>
