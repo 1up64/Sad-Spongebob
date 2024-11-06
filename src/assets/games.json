@@ -1,0 +1,1294 @@
+[
+    {
+        "n": "Mindustry",
+        "u": "mind"
+    },
+    {
+        "n": "House of Hazards",
+        "u": "houseofhazards"
+    },
+    {
+        "n": "Shape Shipper",
+        "u": "shape"
+    },
+    {
+        "n": "Rough Dino",
+        "u": "roughdino"
+    },
+    {
+        "n": "Geometry Meltdown",
+        "u": "geomelt"
+    },
+    {
+        "n": "Geometry Jump",
+        "u": "geojump"
+    },
+    {
+        "n": "Counter Strike: DS",
+        "u": "cds"
+    },
+    {
+        "n": "Terri-Fried",
+        "u": "terrifried"
+    },
+    {
+        "n": "Geometry Dash Remastered",
+        "u": "geodashrm"
+    },
+    {
+        "n": "The Minions: Resurrection",
+        "u": "minion"
+    },
+    {
+        "n": "Geometry Dash Sky",
+        "u": "geodashsky"
+    },
+    {
+        "n": "Drift Mania",
+        "u": "drift"
+    },
+    {
+        "n": "Driving Force 4",
+        "u": "driving"
+    },
+    {
+        "n": "Minecraft Games",
+        "u": "eaglercraft"
+    },
+    {
+        "n": "Red Ball 1",
+        "u": "redball"
+    },
+    {
+        "n": "Recoil",
+        "u": "recoil"
+    },
+    {
+        "n": "Karlson't",
+        "u": "karlsont"
+    },
+    {
+        "n": "Deepest Sword",
+        "u": "deepestsword"
+    },
+    {
+        "n": "Tomb of The Mask",
+        "u": "tombofthemask"
+    },
+    {
+        "n": "Hill Climb Racing",
+        "u": "hillclimbracing"
+    },
+    {
+        "n": "Gladihoppers",
+        "u": "gladihoppers"
+    },
+    {
+        "n": "Flappy Copter",
+        "u": "flappycopter"
+    },
+    {
+        "n": "Kick That Buddy",
+        "u": "kickthatbuddy"
+    },
+    {
+        "n": "Grand Truckismo",
+        "u": "grandtruckismo"
+    },
+    {
+        "n": "Turbo Racing 3",
+        "u": "turboracing3"
+    },
+    {
+        "n": "The Binding of Issac",
+        "u": "tboi"
+    },
+    {
+        "n": "Gun Knight",
+        "u": "gunknight"
+    },
+    {
+        "n": "The Oregon Trail",
+        "u": "oregon"
+    },
+    {
+        "n": "Windows 98",
+        "u": "windows98"
+    },
+    {
+        "n": "Creeper Craft",
+        "u": "creepercraft"
+    },
+    {
+        "n": "Block Zappers 3",
+        "u": "blockzappers"
+    },
+    {
+        "n": "Kerosene Client",
+        "u": "keroseneclient"
+    },
+    {
+        "n": "Frogger",
+        "u": "frogger"
+    },
+    {
+        "n": "Simon",
+        "u": "simon"
+    },
+    {
+        "n": "Splash Dash Racing",
+        "u": "splashanddash"
+    },
+    {
+        "n": "Super Mario 63",
+        "u": "mario63"
+    },
+    {
+        "n": "Bike Champ 2",
+        "u": "bikechamp2"
+    },
+    {
+        "n": "Grand Theft Grotto",
+        "u": "gtg"
+    },
+    {
+        "n": "Bike Champ",
+        "u": "bikechamp"
+    },
+    {
+        "n": "Gloom",
+        "u": "gloom"
+    },
+    {
+        "n": "Copter",
+        "u": "copter"
+    },
+    {
+        "n": "Minesweeper",
+        "u": "minesweeper"
+    },
+    {
+        "n": "POOM",
+        "u": "poom"
+    },
+    {
+        "n": "Solitaire",
+        "u": "solitaire"
+    },
+    {
+        "n": "Spank the Monkey",
+        "u": "spankthemonkey"
+    },
+    {
+        "n": "CMM Client",
+        "u": "cmm-client"
+    },
+    {
+        "n": "Pool",
+        "u": "pool"
+    },
+    {
+        "n": "Yohoho.io",
+        "u": "yohoho"
+    },
+    {
+        "n": "Tube Jumpers",
+        "u": "tube-jumpers"
+    },
+    {
+        "n": "Hill Climb Racing 2",
+        "u": "hillclimbracing2"
+    },
+    {
+        "n": "DOOM",
+        "u": "doom"
+    },
+    {
+        "n": "Awesome Tanks",
+        "u": "awesometanks"
+    },
+    {
+        "n": "Pong",
+        "u": "pong"
+    },
+    {
+        "n": "A Dance of Fire & Ice",
+        "u": "adofai"
+    },
+    {
+        "n": "Friday Night Funkin",
+        "u": "fridaynightfunkin"
+    },
+    {
+        "n": "Worlds Hardest Game",
+        "u": "worldshardestgame"
+    },
+    {
+        "n": "GBA Emulator",
+        "u": "gba"
+    },
+    {
+        "n": "Celeste",
+        "u": "celeste"
+    },
+    {
+        "n": "Mario",
+        "u": "mario"
+    },
+    {
+        "n": "60s Burger Run",
+        "u": "60sburgerrun"
+    },
+    {
+        "n": "Cluster Rush",
+        "u": "cluster-rush"
+    },
+    {
+        "n": "Vex 3",
+        "u": "vex3"
+    },
+    {
+        "n": "Adventure Capitalist",
+        "u": "adventure-capitalist"
+    },
+    {
+        "n": "Bloons Tower Defense 3",
+        "u": "btd3"
+    },
+    {
+        "n": "Avalanche",
+        "u": "avalanche"
+    },
+    {
+        "n": "Slope",
+        "u": "slope"
+    },
+    {
+        "n": "Cell Machine",
+        "u": "cell-machine"
+    },
+    {
+        "n": "Run 2",
+        "u": "run2"
+    },
+    {
+        "n": "Vex 5",
+        "u": "vex5"
+    },
+    {
+        "n": "Vex 4",
+        "u": "vex4"
+    },
+    {
+        "n": "Vex 2",
+        "u": "vex2"
+    },
+    {
+        "n": "Crossy Road",
+        "u": "crossyroad"
+    },
+    {
+        "n": "Wall Smash",
+        "u": "wallsmash"
+    },
+    {
+        "n": "Death Run 3D",
+        "u": "death-run-3d"
+    },
+    {
+        "n": "Gun Mayhem 2",
+        "u": "gunmayhem2"
+    },
+    {
+        "n": "CircloO",
+        "u": "circloo"
+    },
+    {
+        "n": "Vex",
+        "u": "vex"
+    },
+    {
+        "n": "Stack",
+        "u": "stack"
+    },
+    {
+        "n": "xx142-b2.exe",
+        "u": "xx142-b2.exe"
+    },
+    {
+        "n": "paper.io",
+        "u": "paperio"
+    },
+    {
+        "n": "Chibi Knight",
+        "u": "chibiknight"
+    },
+    {
+        "n": "1v1.lol",
+        "u": "1v1lol"
+    },
+    {
+        "n": "Dino",
+        "u": "dino"
+    },
+    {
+        "n": "Tetris",
+        "u": "tetris"
+    },
+    {
+        "n": "Geometry Dash (Scratch)",
+        "u": "geometrydash"
+    },
+    {
+        "n": "Sand Game",
+        "u": "sand"
+    },
+    {
+        "n": "Dante",
+        "u": "dante"
+    },
+    {
+        "n": "Wordle",
+        "u": "wordle"
+    },
+    {
+        "n": "Offline Paradise",
+        "u": "offlineparadise"
+    },
+    {
+        "n": "2048",
+        "u": "2048"
+    },
+    {
+        "n": "Doodle Jump",
+        "u": "doodlejump"
+    },
+    {
+        "n": "Weave Silk",
+        "u": "weavesilk"
+    },
+    {
+        "n": "Super Meat Boy",
+        "u": "supermeatboy"
+    },
+    {
+        "n": "Vex 6",
+        "u": "vex6"
+    },
+    {
+        "n": "WebGL Fluid Sim",
+        "u": "fluidsim"
+    },
+    {
+        "n": "Basketball Stars",
+        "u": "basketball-stars"
+    },
+    {
+        "n": "osu!",
+        "u": "osu"
+    },
+    {
+        "n": "Cookie Clicker",
+        "u": "cookieclicker"
+    },
+    {
+        "n": "Superhot",
+        "u": "superhot"
+    },
+    {
+        "n": "Super Mario 64",
+        "u": "supermario64"
+    },
+    {
+        "n": "Gun Mayhem Redux",
+        "u": "gunmayhemredux"
+    },
+    {
+        "n": "I Wanna Be Thy Copy",
+        "u": "iwbtc"
+    },
+    {
+        "n": "HexGL",
+        "u": "hexgl"
+    },
+    {
+        "n": "Champion Island",
+        "u": "championisland"
+    },
+    {
+        "n": "Learn to Fly",
+        "u": "learntofly"
+    },
+    {
+        "n": "Wordle Bot",
+        "u": "wordlebot"
+    },
+    {
+        "n": "Cut The Rope",
+        "u": "cuttherope"
+    },
+    {
+        "n": "Chess",
+        "u": "chess"
+    },
+    {
+        "n": "Flappy Bird",
+        "u": "flappybird"
+    },
+    {
+        "n": "Lows Adventures 2",
+        "u": "lowsadventures2"
+    },
+    {
+        "n": "Drift Boss",
+        "u": "drift-boss"
+    },
+    {
+        "n": "Fireboy & Watergirl 1",
+        "u": "fireboywatergirl"
+    },
+    {
+        "n": "Gun Mayhem",
+        "u": "gunmayhem"
+    },
+    {
+        "n": "Duck Life 4",
+        "u": "ducklife4"
+    },
+    {
+        "n": "Achievement Unlocked",
+        "u": "achieveunlocked"
+    },
+    {
+        "n": "Achievement Unlocked 2",
+        "u": "achieveunlocked2"
+    },
+    {
+        "n": "This Is The Only Level",
+        "u": "thisistheonlylevel"
+    },
+    {
+        "n": "This Is The Only Level 2",
+        "u": "thisistheonlylevel2"
+    },
+    {
+        "n": "Bitlife",
+        "u": "bitlife"
+    },
+    {
+        "n": "Duck Life 1",
+        "u": "ducklife1"
+    },
+    {
+        "n": "Duck Life 2",
+        "u": "ducklife2"
+    },
+    {
+        "n": "Duck Life 3",
+        "u": "ducklife3"
+    },
+    {
+        "n": "ovo",
+        "u": "ovo"
+    },
+    {
+        "n": "There Is No Game",
+        "u": "thereisnogame"
+    },
+    {
+        "n": "Universal Paperclips",
+        "u": "universal-paperclips"
+    },
+    {
+        "n": "Windows 11",
+        "u": "win11"
+    },
+    {
+        "n": "Learn to Fly 2",
+        "u": "learntofly2"
+    },
+    {
+        "n": "Worlds Hardest Game 2",
+        "u": "worldhardestgame2"
+    },
+    {
+        "n": "Vex 7",
+        "u": "vex7"
+    },
+    {
+        "n": "Slope Ball",
+        "u": "slope-ball"
+    },
+    {
+        "n": "Slope 2",
+        "u": "slope2"
+    },
+    {
+        "n": "Learn to Fly Idle",
+        "u": "learntoflyidle"
+    },
+    {
+        "n": "Red Ball 4",
+        "u": "redball4"
+    },
+    {
+        "n": "Red Ball 4 Vol 3",
+        "u": "redball4vol3"
+    },
+    {
+        "n": "Red Ball 4 Vol 2",
+        "u": "redball4vol2"
+    },
+    {
+        "n": "Red Ball 3",
+        "u": "redball3"
+    },
+    {
+        "n": "Snake",
+        "u": "snake"
+    },
+    {
+        "n": "Pacman",
+        "u": "pacman"
+    },
+    {
+        "n": "Color Switch",
+        "u": "colorswitch"
+    },
+    {
+        "n": "Halloween 2016",
+        "u": "halloween2016"
+    },
+    {
+        "n": "Game Maker Doodle",
+        "u": "gamemaker"
+    },
+    {
+        "n": "The Impossible Game",
+        "u": "theimpossiblegame"
+    },
+    {
+        "n": "Papas Freezeria",
+        "u": "papasfreezeria"
+    },
+    {
+        "n": "Papas Pizzeria",
+        "u": "papaspizzeria"
+    },
+    {
+        "n": "Idle Breakout",
+        "u": "idlebreakout"
+    },
+    {
+        "n": "Stickman Hook",
+        "u": "stickman-hook"
+    },
+    {
+        "n": "Drift Hunters",
+        "u": "drifthunters"
+    },
+    {
+        "n": "Rocket League",
+        "u": "rocketleague"
+    },
+    {
+        "n": "Little Alchemy",
+        "u": "littlealchemy"
+    },
+    {
+        "n": "Retro Bowl",
+        "u": "retrobowl"
+    },
+    {
+        "n": "Tunnel Rush",
+        "u": "tunnelrush"
+    },
+    {
+        "n": "Moto X3M",
+        "u": "motox3m"
+    },
+    {
+        "n": "Moto X3M Winter",
+        "u": "motox3m-winter"
+    },
+    {
+        "n": "Moto X3M Pool Party",
+        "u": "motox3m-pool"
+    },
+    {
+        "n": "Five Nights at Freddy's",
+        "u": "fnaf"
+    },
+    {
+        "n": "Burrito Bison",
+        "u": "burritobison"
+    },
+    {
+        "n": "Cut The Rope Holday",
+        "u": "cuttherope-holiday"
+    },
+    {
+        "n": "Helix Jump",
+        "u": "helixjump"
+    },
+    {
+        "n": "Clicker Heroes",
+        "u": "clickerheroes"
+    },
+    {
+        "n": "Jetpack Joyride",
+        "u": "jetpackjoyride"
+    },
+    {
+        "n": "Fruit Ninja",
+        "u": "fruitninja"
+    },
+    {
+        "n": "Tron",
+        "u": "tron"
+    },
+    {
+        "n": "Thirty Dollar Website",
+        "u": "thirtydollarwebsite"
+    },
+    {
+        "n": "n-gon",
+        "u": "ngon"
+    },
+    {
+        "n": "Subway Surfers",
+        "u": "subway-surfers-ny"
+    },
+    {
+        "n": "Madalin Cars",
+        "u": "madalincars"
+    },
+    {
+        "n": "Run 3",
+        "u": "run3"
+    },
+    {
+        "n": "Dragon Ball Devolution",
+        "u": "dragonballdevolution"
+    },
+    {
+        "n": "Run",
+        "u": "run"
+    },
+    {
+        "n": "Super Smash Flash",
+        "u": "supersmashflash"
+    },
+    {
+        "n": "Stickman Climb",
+        "u": "stickmanclimb"
+    },
+    {
+        "n": "Getaway Shooter",
+        "u": "getawayshooter"
+    },
+    {
+        "n": "Riddle School",
+        "u": "riddleschool"
+    },
+    {
+        "n": "Riddle School 2",
+        "u": "riddleschool2"
+    },
+    {
+        "n": "Riddle School 3",
+        "u": "riddleschool3"
+    },
+    {
+        "n": "Riddle School 4",
+        "u": "riddleschool4"
+    },
+    {
+        "n": "Riddle School 5",
+        "u": "riddleschool5"
+    },
+    {
+        "n": "Riddle Transfer",
+        "u": "riddleschooltransfer"
+    },
+    {
+        "n": "Riddle Transfer 2",
+        "u": "riddleschooltransfer2"
+    },
+    {
+        "n": "Zombocalypse",
+        "u": "zombocalypse"
+    },
+    {
+        "n": "Papas Burgeria",
+        "u": "papasburgeria"
+    },
+    {
+        "n": "Duck Life 5",
+        "u": "ducklife5"
+    },
+    {
+        "n": "Duck Life 6",
+        "u": "ducklife6"
+    },
+    {
+        "n": "webretro",
+        "u": "webretro"
+    },
+    {
+        "n": "osu!mania",
+        "u": "osumania"
+    },
+    {
+        "n": "Five Nights at Freddy's 2",
+        "u": "fnaf2"
+    },
+    {
+        "n": "Five Nights at Freddy's 3",
+        "u": "fnaf3"
+    },
+    {
+        "n": "Five Nights at Freddy's 4",
+        "u": "fnaf4"
+    },
+    {
+        "n": "Temple Run 2",
+        "u": "templerun2"
+    },
+    {
+        "n": "Happy Wheels",
+        "u": "happywheels"
+    },
+    {
+        "n": "Fireboy & Watergirl 2",
+        "u": "fireboywatergirl2"
+    },
+    {
+        "n": "Fireboy & Watergirl 3",
+        "u": "fireboywatergirl3"
+    },
+    {
+        "n": "Fireboy & Watergirl 4",
+        "u": "fireboywatergirl4"
+    },
+    {
+        "n": "Rise Higher",
+        "u": "risehigher"
+    },
+    {
+        "n": "Hextris",
+        "u": "hextris"
+    },
+    {
+        "n": "Sprinter",
+        "u": "sprinter"
+    },
+    {
+        "n": "Amazing Rope Police",
+        "u": "amazing-rope-police"
+    },
+    {
+        "n": "Ruffle",
+        "u": "ruffle"
+    },
+    {
+        "n": "emulatorJS",
+        "u": "emulatorjs"
+    },
+    {
+        "n": "Geometry Rash",
+        "u": "geometryrash"
+    },
+    {
+        "n": "Bloons Tower Defense",
+        "u": "btd"
+    },
+    {
+        "n": "Bloons Tower Defense 2",
+        "u": "btd2"
+    },
+    {
+        "n": "Bloons Tower Defense 4",
+        "u": "btd4"
+    },
+    {
+        "n": "Bloons Tower Defense 6",
+        "u": "btd6"
+    },
+    {
+        "n": "Bloons Tower Defense 5",
+        "u": "btd5"
+    },
+    {
+        "n": "Last Horizon",
+        "u": "lasthorizon"
+    },
+    {
+        "n": "1 on 1 Soccer",
+        "u": "1on1soccer"
+    },
+    {
+        "n": "Among Us",
+        "u": "amongus"
+    },
+    {
+        "n": "Bad Piggies",
+        "u": "badpiggies"
+    },
+    {
+        "n": "Sandtrix",
+        "u": "sandtrix"
+    },
+    {
+        "n": "Blood Tournament",
+        "u": "bloodtournament"
+    },
+    {
+        "n": "Gold Digger FRVR",
+        "u": "golddiggerfrvr"
+    },
+    {
+        "n": "Retro Bowl College",
+        "u": "retrobowlcollege"
+    },
+    {
+        "n": "We Become What We Behold",
+        "u": "wbwwb"
+    },
+    {
+        "n": "Nut Simulator",
+        "u": "nutsim"
+    },
+    {
+        "n": "Pokemon",
+        "u": "pokemon"
+    },
+    {
+        "n": "Super Smash Bros",
+        "u": "supersmashbros"
+    },
+    {
+        "n": "Skibidi 1 v 100",
+        "u": "skibiditoilet"
+    },
+    {
+        "n": "Drive Mad",
+        "u": "drivemad"
+    },
+    {
+        "n": "Rooftop Snipers",
+        "u": "rooftopsnipers"
+    },
+    {
+        "n": "Funny Shooter",
+        "u": "funnyshooter"
+    },
+    {
+        "n": "Monkey Mart",
+        "u": "monkeymart"
+    },
+    {
+        "n": "Factory Balls",
+        "u": "factoryballs"
+    },
+    {
+        "n": "Factory Balls Forever",
+        "u": "factoryballsforever"
+    },
+    {
+        "n": "Funny Shooter 2",
+        "u": "funnyshooter2"
+    },
+    {
+        "n": "Bad Time Simulator",
+        "u": "badtimesimulator"
+    },
+    {
+        "n": "Commodore 64 Clicker",
+        "u": "commodoreclicker"
+    },
+    {
+        "n": "Stickman Boost",
+        "u": "stickmanboost"
+    },
+    {
+        "n": "Stickman Golf",
+        "u": "stickmangolf"
+    },
+    {
+        "n": "Basket Bros",
+        "u": "basketbros"
+    },
+    {
+        "n": "justfall.lol",
+        "u": "justfalllol"
+    },
+    {
+        "n": "Doge Miner",
+        "u": "dogeminer"
+    },
+    {
+        "n": "Soccer Random",
+        "u": "soccerrandom"
+    },
+    {
+        "n": "Basket Random",
+        "u": "basketrandom"
+    },
+    {
+        "n": "Boxing Random",
+        "u": "boxingrandom"
+    },
+    {
+        "n": "Funny Mad Racing",
+        "u": "funnymadracing"
+    },
+    {
+        "n": "hole.io",
+        "u": "holeio"
+    },
+    {
+        "n": "Time Shooter",
+        "u": "timeshooter1"
+    },
+    {
+        "n": "Time Shooter 2",
+        "u": "timeshooter2"
+    },
+    {
+        "n": "Time Shooter 3",
+        "u": "timeshooter3"
+    },
+    {
+        "n": "Townscaper",
+        "u": "townscaper"
+    },
+    {
+        "n": "Bad Ice Cream",
+        "u": "badicecream"
+    },
+    {
+        "n": "Bad Ice Cream 2",
+        "u": "badicecream2"
+    },
+    {
+        "n": "Bad Ice Cream 3",
+        "u": "badicecream3"
+    },
+    {
+        "n": "Bob the Robber 2",
+        "u": "bobtherobber2"
+    },
+    {
+        "n": "Boxing Physics 2",
+        "u": "boxingphysics2"
+    },
+    {
+        "n": "Burger and Frights",
+        "u": "burgerandfrights"
+    },
+    {
+        "n": "Flippy Fish",
+        "u": "flippyfish"
+    },
+    {
+        "n": "Knife Hit",
+        "u": "knifehit"
+    },
+    {
+        "n": "Lazy Jump 3D",
+        "u": "lazyjump3d"
+    },
+    {
+        "n": "Moto X3M Spooky",
+        "u": "motox3m-spooky"
+    },
+    {
+        "n": "Rooftop Snipers 2",
+        "u": "rooftopsnipers2"
+    },
+    {
+        "n": "Skibidi Toilet Attack",
+        "u": "skibiditoiletattack"
+    },
+    {
+        "n": "Tiny Fishing",
+        "u": "tinyfishing"
+    },
+    {
+        "n": "TU-95",
+        "u": "tu95"
+    },
+    {
+        "n": "TU-46",
+        "u": "tu46"
+    },
+    {
+        "n": "Russian Car Driver",
+        "u": "russiancardriver"
+    },
+    {
+        "n": "Legend of Zelda - Ocarina of Time",
+        "u": "ocarinaoftime"
+    },
+    {
+        "n": "Metroid: Zero Mission",
+        "u": "metroidzeromission"
+    },
+    {
+        "n": "Guilty Gear",
+        "u": "guiltygear"
+    },
+    {
+        "n": "A Dark Room",
+        "u": "adarkroom"
+    },
+    {
+        "n": "Fancy Pants Adventures",
+        "u": "fancypantsadventures"
+    },
+    {
+        "n": "Fancy Pants Adventures 2",
+        "u": "fancypantsadventures2"
+    },
+    {
+        "n": "Line Rider",
+        "u": "linerider"
+    },
+    {
+        "n": "Funny Ball Game",
+        "u": "funnyballgame"
+    },
+    {
+        "n": "Henry Stickmin - Stealing the Diamond",
+        "u": "stealingthediamond"
+    },
+    {
+        "n": "Henry Stickmin - Breaking the Bank",
+        "u": "breakingthebank"
+    },
+    {
+        "n": "Henry Stickmin - Escaping the Prison",
+        "u": "escapingtheprison"
+    },
+    {
+        "n": "Henry Stickmin - Fleeing the Complex",
+        "u": "fleeingthecomplex"
+    },
+    {
+        "n": "Henry Stickmin - Infiltrating the Airship",
+        "u": "infiltratingtheairship"
+    },
+    {
+        "n": "Pandemic",
+        "u": "pandemic"
+    },
+    {
+        "n": "Pandemic 2",
+        "u": "pandemic2"
+    },
+    {
+        "n": "Age of War",
+        "u": "ageofwar"
+    },
+    {
+        "n": "Soundboard",
+        "u": "soundboard"
+    },
+    {
+        "n": "The Impossible Quiz",
+        "u": "theimpossiblequiz"
+    },
+    {
+        "n": "2D Rocket League",
+        "u": "2drocketleague"
+    },
+    {
+        "n": "Pizza Tower",
+        "u": "pizzatower"
+    },
+    {
+        "n": "Monster Tracks",
+        "u": "monstertracks"
+    },
+    {
+        "n": "Totally Accurate Battle Simulator",
+        "u": "tabs"
+    },
+    {
+        "n": "CSGO Case Clicker",
+        "u": "csgoclicker"
+    },
+    {
+        "n": "The Final Earth 2",
+        "u": "thefinalearth2"
+    },
+    {
+        "n": "Baldi's Basics",
+        "u": "baldis-basics"
+    },
+    {
+        "n": "Cubefield",
+        "u": "cubefield"
+    },
+    {
+        "n": "Bit Planes",
+        "u": "bit-planes"
+    },
+    {
+        "n": "Snow Rider 3D",
+        "u": "snowrider3d"
+    },
+    {
+        "n": "Dadish",
+        "u": "dadish"
+    },
+    {
+        "n": "Dadish 2",
+        "u": "dadish2"
+    },
+    {
+        "n": "Dadish 3",
+        "u": "dadish3"
+    },
+    {
+        "n": "Watermelon Game",
+        "u": "watermelongame"
+    },
+    {
+        "n": "Crimson Fantasia",
+        "u": "crimsonfantasia"
+    },
+    {
+        "n": "Geometry Dash Lite",
+        "u": "gdlite"
+    },
+    {
+        "n": "Virtual x86",
+        "u": "v86"
+    },
+    {
+        "n": "Idle Research",
+        "u": "idleresearch"
+    },
+    {
+        "n": "10 Minutes Till Dawn",
+        "u": "10minutestilldawn"
+    },
+    {
+        "n": "Friday Night Funkin: Mid Fight Masses",
+        "u": "fnfmidfight"
+    },
+    {
+        "n": "Papas Donuteria",
+        "u": "papasdonuteria"
+    },
+    {
+        "n": "Papas Pancakeria",
+        "u": "papaspancakeria"
+    },
+    {
+        "n": "Papas Scooperia",
+        "u": "papasscooperia"
+    },
+    {
+        "n": "Papas Tacomia",
+        "u": "papastacomia"
+    },
+    {
+        "n": "Territorial.io",
+        "u": "territorialio"
+    },
+    {
+        "n": "Theme Hotel",
+        "u": "themehotel"
+    },
+    {
+        "n": "Thumb Fighter",
+        "u": "thumbfighter"
+    },
+    {
+        "n": "The Enchanted Cave 2",
+        "u": "enchantedcave2"
+    },
+    {
+        "n": "Animal Crossing Wild World",
+        "u": "animalcrossingwildworld"
+    },
+    {
+        "n": "Banjo Kazooie",
+        "u": "banjokazooie"
+    },
+    {
+        "n": "Donkey Kong 64",
+        "u": "donkeykong64"
+    },
+    {
+        "n": "Doom 64",
+        "u": "doom64"
+    },
+    {
+        "n": "Goldeneye 007",
+        "u": "goldeneye"
+    },
+    {
+        "n": "Majora's Mask",
+        "u": "majorasmask"
+    },
+    {
+        "n": "Mario Kart DS",
+        "u": "mariokartds"
+    },
+    {
+        "n": "Mario Party",
+        "u": "marioparty"
+    },
+    {
+        "n": "Mario Party 2",
+        "u": "marioparty2"
+    },
+    {
+        "n": "Mario Party 3",
+        "u": "marioparty3"
+    },
+    {
+        "n": "Mario Party DS",
+        "u": "mariopartyds"
+    },
+    {
+        "n": "Nintendogs",
+        "u": "nintendogs"
+    },
+    {
+        "n": "Papas Bakeria",
+        "u": "papasbakeria"
+    },
+    {
+        "n": "Papas Cheeseria",
+        "u": "papascheeseria"
+    },
+    {
+        "n": "Papas Pastaria",
+        "u": "papaspastaria"
+    },
+    {
+        "n": "Papas Sushiria",
+        "u": "papassushiria"
+    },
+    {
+        "n": "Papas Wingeria",
+        "u": "papaswingeria"
+    },
+    {
+        "n": "Paper Mario",
+        "u": "papermario"
+    },
+    {
+        "n": "Star Fox 64",
+        "u": "starfox64"
+    },
+    {
+        "n": "Super Mario 64 DS",
+        "u": "supermario64ds"
+    }
+]
