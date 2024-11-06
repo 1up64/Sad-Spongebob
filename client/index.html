@@ -1,19 +1,40 @@
-<!-- For Self Hosting -->
-<!-- Change ./build.js if the directory is different -->
-body, html {
-  height: 100%;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Full Screen Background</title>
+  <style>
+    /* Make sure the body and html elements take the full height */
+    body, html {
+      height: 100%;
+      margin: 0; /* Ensure there's no margin around the body */
+    }
 
-.bg {
-  /* The image used */
-  background-image: url("./images/Dashboard%20%7C%20RapidIdentity.png");
+    /* Set the background image to cover the entire screen */
+    .bg {
+      background-image: url("./images/Dashboard%20%7C%20RapidIdentity.png");
 
-  /* Full height */
-  height: 100%;
+      /* Make the background cover the entire screen */
+      height: 100%;
+      width: 100%;
 
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-<script src="./build.js"></script>
+      /* Position and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+      /* Use flexbox for centering content if you plan to add anything */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <script src="./build.js"></script>
+
+</body>
+</html>
