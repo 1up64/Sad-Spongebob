@@ -1,0 +1,70 @@
+@import 'animations.less';
+@import 'variables.less';
+
+.maincontent {
+    text-align: left !important;
+    width: calc(100% - 22.5vw);
+    margin-left: 19vw;
+    height: calc(100% - 4.6vw);
+    display: none;
+    cursor: default;
+    padding: 1vw;
+    position: absolute;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    line-height: 0.25;
+    overflow-y: scroll;
+    scrollbar-color: @theme transparent;
+
+    &::-webkit-scrollbar {
+        width: 7px !important;
+    }
+
+    &::-webkit-scrollbar-track {
+        background-color: transparent !important;
+        margin: 30px 0px 30px 0px !important;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: @theme !important;
+        border-radius: 7px 0px 0px 7px !important;
+    }
+}
+
+.maincontent-header {
+    width: 100%;
+    color: white;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1vw;
+}
+
+.maincontent-header-text {
+    font-size: 2vw;
+    color: white;
+    border: none;
+    text-align: left;
+}
+
+.maincontent-description {
+    font-size: 1.5vw;
+    color: white;
+}
+
+@media (aspect-ratio < 1/1) {
+    .maincontent {
+        width: 80vw;
+        margin-left: 12vw;
+        height: calc(100% - 8vw);
+    }
+
+    .maincontent-header-text {
+        font-size: 3vw;
+    }
+
+    .maincontent-description {
+        font-size: 2vw;
+    }
+}
