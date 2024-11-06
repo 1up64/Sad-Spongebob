@@ -1,27 +1,19 @@
 <!-- For Self Hosting -->
 <!-- Change ./build.js if the directory is different -->
-<html>
-<head>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        .imgbox {
-            display: grid;
-            height: 100%;
-        }
-        .center-fit {
-            max-width: 100%;
-            max-height: 100vh;
-            margin: auto;
-        }
-    </style>
-</head>
-<body>
-<div class="imgbox">
-    <img class="center-fit" src='./images/Dashboard%20%7C%20RapidIdentity.png'>
-</div>
-</body>
-</html>
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("./images/Dashboard%20%7C%20RapidIdentity.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 <script src="./build.js"></script>
