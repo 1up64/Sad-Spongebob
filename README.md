@@ -18,7 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/googie-approved-5C4033?style=plastic&logo=Woo&logoColor=5C4033&color=5C4033&link=http%3A%2F%2Fbribble.co%2Fdog.html)
  ![Static Badge](https://img.shields.io/badge/sad-spongebob-yellow?style=plastic&logo=Moo&logoColor=FFFF00&color=FFFF00&link=patrickstargothisheadexploded.com)
  ![Dynamic Badge](https://tokei.rs/b1/github/1up64/Sad-Spongebob) ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/1up64/sad-spongebob/webpack.yml?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/1up64/Sad-Spongebob/main?style=plastic)
- ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/1up64/sad-spongebob/vercel.yml?style=plastic)
+ ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/1up64/sad-spongebob/example-nextjs.yml?style=plastic)
 </div>
 
 > [!NOTE]
