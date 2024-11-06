@@ -13,6 +13,7 @@
 </p>
 <hr>
 
+![GitHub deployments](https://img.shields.io/github/deployments/1up64/Sad-Spongebob/Production%20%E2%80%93%20sad-spongebob-ya?style=plastic&logo=vercel&logoColor=white&label=is%20vercel%20working%3F)
 ![Static Badge](https://img.shields.io/badge/gobba_axle-approved-purple?style=plastic&logo=Woo&logoColor=purple&color=purple&link=gobba-axle-v10.vercel.app)
 ![Static Badge](https://img.shields.io/badge/googie-approved-5C4033?style=plastic&logo=Woo&logoColor=5C4033&color=5C4033&link=http%3A%2F%2Fbribble.co%2Fdog.html)
  ![Static Badge](https://img.shields.io/badge/sad-spongebob-yellow?style=plastic&logo=Moo&logoColor=FFFF00&color=FFFF00&link=patrickstargothisheadexploded.com)
