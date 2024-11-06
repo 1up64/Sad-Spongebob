@@ -4,7 +4,7 @@
 
 #### give a star, this project took a while <3 ⭐️✨
 
-<img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/angai313-spongebob-sad.gif?raw=true alt="drawing" width="300"/><br>
+<img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/angai313-spongebob-sad.gif?raw=true" alt="drawing" width="300"/><br>
 <hr>
 <p align="center">
 -
