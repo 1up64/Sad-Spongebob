@@ -66,7 +66,7 @@ With credit sure.
 
 ## Support
 
-For support contact me. The fastest way to reach me is on discord @1upfunniguy. You can also use my email, sad.spongebob.dev@gmail.com
+For support contact me. The fastest way to reach me is on discord @sad_spongebob_epic. You can also use my email, sad.spongebob.dev@gmail.com
 
 
 
