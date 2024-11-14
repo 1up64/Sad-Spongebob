@@ -13,10 +13,10 @@
 </p>
 <hr>
 
-![Static Badge](https://img.shields.io/badge/gobba_axle-approved-purple?style=plastic&logo=Woo&logoColor=purple&color=purple&link=gobba-axle-v10.vercel.app)
-![Static Badge](https://img.shields.io/badge/googie-approved-5C4033?style=plastic&logo=Woo&logoColor=5C4033&color=5C4033&link=http%3A%2F%2Fbribble.co%2Fdog.html)
- ![Static Badge](https://img.shields.io/badge/sad-spongebob-yellow?style=plastic&logo=Moo&logoColor=FFFF00&color=FFFF00&link=patrickstargothisheadexploded.com)
- ![Dynamic Badge](https://tokei.rs/b1/github/1up64/Sad-Spongebob) ![Dynamic Badge](https://img.shields.io/github/actions/workflow/status/penguinify/car-axle-client/webpack.yml?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/1up64/Sad-Spongebob/main?style=plastic)
+[![Gobba Badge](https://custom-icon-badges.demolab.com/badge/approved-purple?style=plastic&label=gobba&logoColor=&logo=fathers-day-rock)](https://gaxle.vercel.app "gobba axle")
+[![Googie Badge](https://custom-icon-badges.demolab.com/badge/approved-5C4033?style=plastic&label=googie&logoColor=&logo=googie)](http://bribble.co/dog.html "googie web")
+ [![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=plastic&label=sad&logoColor=&logo=sad-spongebob)](https://for-vercel-ya.vercel.app "sad spongebob")
+ [![GitHub Last Commit Badge](https://custom-icon-badges.demolab.com/github/last-commit/1up64/Sad-Spongebob?logo=history&logoColor=white&style=plastic)](https://github.com/1up64/Sad-Spongebob/commits/main "last commit") [![Dynamic Badge](https://tokei.rs/b1/github/1up64/Sad-Spongebob)](https://tokei.rs "3k lines of code :D") [![NodeJS Badge](https://img.shields.io/github/actions/workflow/status/1up64/Sad-Spongebob/webpack.yml?style=plastic)](https://nodejs.org/en "I hate NodeJS")
 </div>
 
 > [!NOTE]
@@ -79,9 +79,7 @@ _______________
 > nerdy stuff, be warned this for nerds ONLY!!!
 <div align="center">
 
- ![Static Badge](https://img.shields.io/badge/certified-nerd-yellow?style=plastic&logo=geeksforgeeks&logoColor=black&color=yellow)
- ![GitHub deployments](https://img.shields.io/github/deployments/1up64/for-vercel-cuz-ya/Production%20%E2%80%93%20for-vercel-yay?style=plastic&logo=vercel&logoColor=white&label=is%20vercel%20working%3F)
-
+ [![Certified Nerd Badge](https://custom-icon-badges.demolab.com/badge/certified-yellow?style=plastic&label=nerd&logoColor=&logo=nerd-emoji)](https://emojipedia.org/nerd-face "certified nerd") [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/for-vercel-cuz-ya?root=index.html&style=plastic)](https://for-vercel-cuz-ya.vercel.app "vercel")
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/1up64/Sad-Spongebob)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/1up64/Sad-Spongebob)
