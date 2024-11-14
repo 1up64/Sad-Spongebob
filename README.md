@@ -4,7 +4,7 @@
 
 #### give a star, this project took a while <3 ⭐️✨
 
-<img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/angai313-spongebob-sad.gif?raw=true" alt="drawing" width="300"/><br>
+<img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/angai313-spongebob-sad.gif?raw=true" alt="Sad Spongebob" width="300"/><br>
 <hr>
 <p align="center">
 -
@@ -71,6 +71,7 @@ For support contact me. The fastest way to reach me is on discord @sad_spongebob
 _______________  
 ### ⚠️⚠️⚠️ NOW ENTERING THE NERDY ZONE ⚠️⚠️⚠️
 _______________
+<img src="https://github.com/1up64/Sad-Spongebob/blob/main/docs/nerd-nerdy.gif?raw=true" alt="Nerd Emoji" width="300"/><br>
 
 </div>
 
@@ -79,6 +80,7 @@ _______________
 <div align="center">
 
  ![Static Badge](https://img.shields.io/badge/certified-nerd-yellow?style=plastic&logo=geeksforgeeks&logoColor=black&color=yellow)
+ ![GitHub deployments](https://img.shields.io/github/deployments/1up64/for-vercel-cuz-ya/Production%20%E2%80%93%20for-vercel-yay?style=plastic&logo=vercel&logoColor=white&label=is%20vercel%20working%3F)
 
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/1up64/Sad-Spongebob)
