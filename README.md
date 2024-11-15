@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/1up64"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=Sad%20Spongebob%20repo&font=Arial&center=true&width=700&height=45&color=FFFF00&vCenter=true&pause=1000&size=45" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Sad%20Spongebob%20repo&font=mona%20sans&center=true&width=700&height=45&color=FFFF00&vCenter=true&pause=1000&size=45" /></a>
 </p>
 
 #### give a star, this project took a while <3 ⭐️✨
