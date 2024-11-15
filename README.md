@@ -19,7 +19,7 @@
 [![Gobba Badge](https://custom-icon-badges.demolab.com/badge/approved-purple?style=plastic&label=gobba&logoColor=&logo=fathers-day-rock)](https://gaxle.vercel.app "gobba axle")
 [![Googie Badge](https://custom-icon-badges.demolab.com/badge/approved-5C4033?style=plastic&label=googie&logoColor=&logo=googie)](http://bribble.co/dog.html "googie web")
  [![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=plastic&label=sad&logoColor=&logo=sad-spongebob)](https://for-vercel-yay.vercel.app "sad spongebob")
- [![GitHub Last Commit Badge](https://custom-icon-badges.demolab.com/github/last-commit/1up64/Sad-Spongebob?logo=history&logoColor=white&style=plastic)](https://github.com/1up64/Sad-Spongebob/commits/main "last commit") [![Dynamic Badge](https://tokei.rs/b1/github/1up64/Sad-Spongebob)](https://tokei.rs "3k lines of code :D") [![NodeJS Badge](https://img.shields.io/github/actions/workflow/status/1up64/Sad-Spongebob/webpack.yml?style=plastic)](https://nodejs.org/en "I hate NodeJS")
+ [![GitHub Last Commit Badge](https://custom-icon-badges.demolab.com/github/last-commit/1up64/Sad-Spongebob?logo=history&logoColor=white&style=plastic)](https://github.com/1up64/Sad-Spongebob/commits/main "last commit") [![NodeJS Badge](https://custom-icon-badges.demolab.com/github/actions/workflow/status/1up64/Sad-Spongebob/webpack.yml?branch=main&logo=check-circle-fill&logoColor=white)](https://nodejs.org/en "I hate NodeJS")
 </div>
 
 > [!NOTE]
