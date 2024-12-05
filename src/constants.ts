@@ -39,19 +39,19 @@ export var GAMESLINK = {
     ],
 }
 
-export const VERSION = 11
+export const VERSION = 69
 export const ITERATION = 0
 
-export const NAME = 'car axle'
+export const NAME = 'sad spong'
 // please credit if u change the creator
-export const CREATOR = 'penguinify'
+export const CREATOR = 'sad spongebob'
 
 export var ENV = 'production'
 if (document.location.hostname.includes('localhost')) {
     ENV = 'development'
-} else if (document.location.hostname.includes('github.io/car-axle-client')) {
+} else if (document.location.hostname.includes('vercel.app/saddestspongebob')) {
     ENV = "i hoped this wouldn't need to exist -- BETA"
 }
 
 // DO NOT CHANGE UNLESS YK WHAT U DOIN
-export const DATABASE = 'https://raw.githubusercontent.com/car-axle-client/car-axle-database/main/'
+export const DATABASE = 'https://raw.githubusercontent.com/sad-spongebob/sad-spongebob-database/main/'

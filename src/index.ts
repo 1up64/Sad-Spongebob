@@ -21,8 +21,8 @@ console.log(DeviceType)
 
 // @ts-ignore
 if (window.caraxle) {
-    console.error('car axle is already running, exiting...')
-    throw new Error('car axle is already running')
+    console.error('sad spongebob is already running, exiting...')
+    throw new Error('sad spongebob is already running')
 }
 
 //@ts-ignore
@@ -30,10 +30,10 @@ window.caraxle = true
 
 function main() {
     track()
-    console.info(`${VERSION}.${ITERATION} ${NAME} by ${CREATOR} (${ENV}), thank you from penguinify`)
+    console.info(`${VERSION}.${ITERATION} ${NAME} by ${CREATOR} (${ENV}), thank you from sad spongebob`)
     if (ENV === 'development') {
-        console.warn('car axle client development mode is enabled, your cool to do whatever you want')
-        notificationbar.showNotification('Development Mode', 'car axle client development mode is enabled, your cool to do whatever you want')
+        console.warn('sad spongebob mode is enabled, your cool to do whatever you want')
+        notificationbar.showNotification('sad spongebob Mode', 'sad spongebob mode is enabled, your cool to do whatever you want')
     }
 
     setup('app-fuk-u', layout, components)
