@@ -93,13 +93,10 @@ _______________
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/1up64/Sad-Spongebob)
 ## Contributors
 [![Contrib](https://contrib.rocks/image?repo=1up64/Sad-Spongebob#)](https://github.com/1up64/Sad-Spongebob/graphs/contributors)
-
-</div>
-
 ### todo
-___
-
 - [ ] add dev mode
 - [ ] work with the real car axle
 - [ ] add stick rpg
 - [ ] add vercel deployment
+</div>
+
