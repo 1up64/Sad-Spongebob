@@ -81,6 +81,10 @@ _______________
 > [!CAUTION]
 > nerdy stuff, be warned this for nerds ONLY!!!
 <div align="center">
+    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
+      <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/2bdb5359cd1d4b163350f5a78496cac366dddaf9/powered-by-vercel.svg"/>
+    </a>
+  </p>
 
  [![Certified Nerd Badge](https://custom-icon-badges.demolab.com/badge/certified-yellow?style=plastic&label=nerd&logoColor=&logo=nerd-emoji)](https://emojipedia.org/nerd-face "certified nerd") [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/for-vercel-yay?root=index.html&style=plastic)](https://for-vercel-yay.vercel.app "vercel")
 ## Deploy to a cloud service
@@ -91,6 +95,7 @@ _______________
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/1up64/Sad-Spongebob)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/1up64/Sad-Spongebob)
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/1up64/Sad-Spongebob)
+
 ## Contributors
 [![Contrib](https://contrib.rocks/image?repo=1up64/Sad-Spongebob#)](https://github.com/1up64/Sad-Spongebob/graphs/contributors)
 ## todo
